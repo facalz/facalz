@@ -10,10 +10,12 @@
 </p>
 
 ## 📊 Github Stats
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=facalz&theme=tokyonight_duo" alt="facalz" /></p>
-
+	
+----
+	
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
@@ -26,10 +28,16 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+	
+----
+	
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
+
 <a href="https://github.com/facalz"><img alt="facalz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=facalz&custom_title=facalz's%20Contribution%20Graph&theme=react-dark" /></a>
  
+----
+
 </details>
