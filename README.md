@@ -31,3 +31,11 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+
+<a href="https://github.com/facalz"><img alt="facalz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=facalz&custom_title=facalz's%20Contribution%20Graph&theme=react-dark" /></a>
+ 
+</details>
