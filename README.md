@@ -9,16 +9,23 @@
 	<img src="https://komarev.com/ghpvc/?username=facalz&label=Profile%20views&color=9500ba&style=plastic" alt="facalz" /> 
 </p>
 
+## 🎈 About me
+- 🌎 I'm living now in `São Paulo`, `São Paulo` 
+- 😅 I'm a newbie in coding, know `javascript` language. Now I'm focus on learning `Node.js`
+- 😊 I'm interested in coding, sleeping, and watching `k-dramas`
+
 ## 📊 Github Stats
-<details><summary><h3> 🔥 Streak Stats</h3></summary>	
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=facalz&theme=tokyonight_duo" alt="facalz" /></p>
-	
-----
-	
+
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,16 +35,12 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-	
-----
-	
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
+----
 
 <a href="https://github.com/facalz"><img alt="facalz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=facalz&custom_title=facalz's%20Contribution%20Graph&theme=react-dark" /></a>
  
-----
-
 </details>
