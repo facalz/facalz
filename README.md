@@ -10,7 +10,7 @@
 </p>
 
 ## 🎈 About me
-- 🌎 I'm living now in `São Paulo`, `São Paulo` 
+- 🌎 I'm living now in `Sao Paulo`, `Brazil` 
 - 😅 I'm a newbie in coding, know `javascript` language. Now I'm focus on learning `Node.js`
 - 😊 I'm interested in `coding`, `sleeping`, and watching `k-dramas`
 
