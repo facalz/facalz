@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=facalz&label=Profile%20views&color=c89500ba&style=plastic" alt="facalz" /> 
+	<img src="https://komarev.com/ghpvc/?username=facalz&label=Profile%20views&color=9500ba&style=plastic" alt="facalz" /> 
 </p>
 
 ## 📊 Github Stats
