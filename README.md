@@ -12,7 +12,7 @@
 ## 🎈 About me
 - 🌎 I'm living now in `São Paulo`, `São Paulo` 
 - 😅 I'm a newbie in coding, know `javascript` language. Now I'm focus on learning `Node.js`
-- 😊 I'm interested in coding, sleeping, and watching `k-dramas`
+- 😊 I'm interested in `coding`, `sleeping`, and watching `k-dramas`
 
 ## 📊 Github Stats
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
