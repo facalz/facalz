@@ -13,7 +13,7 @@
 - 🌎 I'm living now in `Sao Paulo`, `Brazil` 
 - 😅 I'm a newbie in coding, know `javascript` language. Now I'm focus on learning `Node.js`
 - 😊 I'm interested in `coding`, `sleeping`, and watching `k-dramas`
--  I'm currently working on: [Dramation](https://github.com/Dramation)
+- 💫 I'm currently working on `[Dramation](https://github.com/Dramation)`
 
 ## 📊 Github Stats
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
