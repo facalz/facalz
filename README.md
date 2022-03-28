@@ -12,10 +12,8 @@
   <br>
   <br>
   <samp align="center">
-    <a href="#">
-      <img src="https://github.com/facalz/facalz/blob/main/discord.png" width="10"/>
-    </a>
-    Discord
+    <img src="https://github.com/facalz/facalz/blob/main/discord.png" width="15"/>
+  Discord
   </samp>
   <p align="center">
    <a href="#" rel="nofollow">
