@@ -12,7 +12,11 @@
   <br>
   <br>
   <samp align="center">
-    <a href="#"><img src="https://github.com/facalz/facalz/blob/main/discord.png" width="22"/></a> Discord</samp>
+    <a href="#">
+      <img src="https://github.com/facalz/facalz/blob/main/discord.png" width="10"/>
+    </a>
+    Discord
+  </samp>
   <p align="center">
    <a href="#" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/506850276863508491?idleMessage=Offline..." alt="Discord Presence" align="center">
