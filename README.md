@@ -14,8 +14,7 @@
   <h3 align="center">
     <a href="#">
       <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="22"/>
-    </a>
-    Discord
+    </a>Discord
 </h3>
   <p align="center">
    <a href="#" rel="nofollow">
