@@ -12,7 +12,9 @@
   <br>
   <br>
   <samp align="center">
+    <a href="#">
     <img src="https://github.com/facalz/facalz/blob/main/discord.png" width="15"/>
+    </a>
   Discord
   </samp>
   <p align="center">
