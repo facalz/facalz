@@ -13,6 +13,7 @@
   <br>
    <samp>Discord</samp>
   <br>
+  <br>
    <a href="#" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/506850276863508491?idleMessage=Offline..." alt="Discord Presence" align="center">
    </a>
