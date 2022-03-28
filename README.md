@@ -11,7 +11,7 @@
   
   <details><summary >
   <h3>
-  <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"/>
+  <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="64"/>
   Discord</h3>
   </summary>
 
