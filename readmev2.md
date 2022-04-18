@@ -6,6 +6,6 @@
   <br>
   <br>
    <a href="#">
-      <img src="https://lanyard-profile-readme.vercel.app/api/506850276863508491?idleMessage=Break%20for%20a%20coffe%20☕" alt="Discord Presence" align="center">
+      <img src="https://lanyard-profile-readme.vercel.app/api/506850276863508491?idleMessage=Break%20for%20a%20coffee%20☕" alt="Discord Presence" align="center">
    </a>
  </p>
