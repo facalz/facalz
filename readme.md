@@ -6,6 +6,6 @@
   <br>
   <br>
   <a href="#">
-    <img src="https://github.com/facalz/facalz/blob/main/picture.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/facalz/assets/main/readme/picture.png" width="300"/>
   </a>
  </p>
