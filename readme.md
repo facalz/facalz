@@ -2,10 +2,10 @@
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/506850276863508491?bg=161B22&borderRadius=5px%205px%200%200">
 </a>
 <a href="https://wakatime.com/@facal" target="_blank">
-    <img width="50%" align="right" alt="Weekly Stats" src="https://facal-private-readme.vercel.app/api/wakatime?username=facal&theme=dark&bg_color=161B22&border_radius=0px&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
+    <img width="50%" align="right" alt="Weekly Stats" src="https://facal-private-readme.vercel.app/api/wakatime?username=facal&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
 </a>
 <a href="#" target="#">
-    <img width="50%" align="right" alt="Github Stats" src="https://facal-private-readme.vercel.app/api?username=facalz&theme=dark&bg_color=161B22&border_radius=5px&border_color=161B22&icon_color=58a6ff&show_icons=false&disable_animations=false&custom_title=Github%20Stats">
+    <img width="50%" align="right" alt="Github Stats" src="https://facal-private-readme.vercel.app/api?username=facalz&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Github%20Stats">
 </a>
 
 <samp>
