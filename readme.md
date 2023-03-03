@@ -9,7 +9,7 @@
 </a>
 
 <samp>
-Hello there! My name is Thiago, but you can call me Facal. 👋
+Hello there! My name is Thiago, but you can call me Facal. <img src="https://raw.githubusercontent.com/facalz/assets/main/readme/peepo_brazil.gif" width="30px" height="30px" alt="hi">
 <br>
 <br>
 I'm a 19-year-old aspiring software engineer from Sao Paulo, Brasil.
@@ -20,9 +20,5 @@ I enjoy creating things and sometimes I even manage to fool myself into thinking
 <br>
 </samp>
 
-<!-- <a href="#" target="_blank">
-<img alt="website" align="center" src="https://img.shields.io/badge/-Coming%20soon-161B22?style=square&logo=google-chrome&logoColor=white">
-</a> -->
-<a href="https://hits-app.vercel.app/" target="_blank">
-<img align="center" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Ffacalz&bgLeft=161B22&bgRight=161B22">
-</a>
+[![Portfolio](https://img.shields.io/badge/-Coming%20soon-161B22?style=square&logo=google-chrome&logoColor=white)](#)
+[![Hit](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Ffacalz&bgLeft=161B22&bgRight=161B22)](#)
