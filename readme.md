@@ -9,7 +9,7 @@
 </a>
 
 <samp>
-Hello there! My name is Thiago, but you can call me Facal. <img src="https://raw.githubusercontent.com/facalz/assets/main/readme/peepo_brazil.gif" width="30px" height="30px" alt="Hi">
+Hello, I'm Thiago, but you can call me Facal. <img src="https://raw.githubusercontent.com/facalz/assets/main/readme/peepo_brazil.gif" width="30px" height="30px" alt="Hi">
 <br>
 <br>
 I'm a 19-year-old aspiring software engineer from Sao Paulo, Brasil.
