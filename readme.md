@@ -20,5 +20,9 @@ I enjoy creating things and sometimes I even manage to fool myself into thinking
 <br>
 </samp>
 
-[![Portfolio](https://img.shields.io/badge/-Coming%20soon-161B22?style=square&logo=google-chrome&logoColor=white)](#)
-[![Hit](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Ffacalz&bgLeft=161B22&bgRight=161B22)](#)
+<a href="https://facal.me" target="_blank">
+    <img alt="My portifolio" src="https://img.shields.io/badge/-Portifolio-161B22?style=square&logo=google-chrome&logoColor=white">
+</a>
+<a href="https://hits-app.vercel.app" target="_blank">
+    <img alt="Hits" src="https://hits.hop.sh/v1/hits?url=https%3A%2F%2Fgithub.com%2Ffacalz&bgRight=161B22&bgLeft=161B22">
+</a>
