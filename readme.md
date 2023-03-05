@@ -12,7 +12,7 @@
 Hello, I'm Thiago, but you can call me Facal. <img src="https://raw.githubusercontent.com/facalz/assets/main/readme/peepo_brazil.gif" width="30px" height="30px" alt="Hi">
 <br>
 <br>
-I'm a 19-year-old aspiring software engineer from Sao Paulo, Brasil.
+I'm a 19-year-old aspiring software engineer from Sao Paulo, Brazil.
 <br>
 <br>
 I enjoy creating things and sometimes I even manage to fool myself into thinking I know what I'm doing.
@@ -21,7 +21,7 @@ I enjoy creating things and sometimes I even manage to fool myself into thinking
 </samp>
 
 <a href="https://facal.me" target="_blank">
-    <img alt="My portifolio" src="https://img.shields.io/badge/-Portifolio-161B22?style=square&logo=google-chrome&logoColor=white">
+    <img alt="My portifolio" src="https://img.shields.io/badge/-Website-161B22?style=square&logo=google-chrome&logoColor=white">
 </a>
 <a href="https://hits-app.vercel.app" target="_blank">
     <img alt="Hits" src="https://hits.hop.sh/v1/hits?url=https%3A%2F%2Fgithub.com%2Ffacalz&bgRight=161B22&bgLeft=161B22">
