@@ -12,7 +12,7 @@
 Hello, I'm Thiago, but you can call me Facal. <img src="https://raw.githubusercontent.com/facalz/assets/main/readme/peepo_brazil.gif" width="30px" height="30px" alt="Hi">
 <br>
 <br>
-I'm a 19-year-old aspiring software engineer from Sao Paulo, Brazil.
+I'm a 19-year-old aspiring software engineer from Brazil.
 <br>
 <br>
 I enjoy creating things and sometimes I even manage to fool myself into thinking I know what I'm doing.
