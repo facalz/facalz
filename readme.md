@@ -20,6 +20,6 @@ I enjoy creating things and sometimes I even manage to fool myself into thinking
 <br>
 </samp>
 
-<a href="https://hits-app.vercel.app" target="_blank">
-    <img alt="Hits" src="https://hits.hop.sh/v1/hits?url=https%3A%2F%2Fgithub.com%2Ffacalz&bgRight=161B22&bgLeft=161B22">
+<a href="https://komarev.com/ghpvc" target="_blank">
+    <img alt="hits" src="https://komarev.com/ghpvc/?username=facalz&label=hits">
 </a>
