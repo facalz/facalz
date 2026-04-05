@@ -5,7 +5,7 @@
   <br>
   <br>
   <br>
-  <img width="100px" src="https://komarev.com/ghpvc/?username=facalz&style=flat-square&color=90acd0&label=hits" />
+  <img src="https://komarev.com/ghpvc/?username=facalz&style=flat-square&color=90acd0&label=hits" />
   <br>
   <br>
   <br>
