@@ -3,10 +3,8 @@
     Hello, I'm Thiago, also known as Facal. I'm an aspiring software engineer from Brazil.
   </samp>
   <br>
-  <img alt="hits" src="https://komarev.com/ghpvc/?username=facalz&label=hits">
+  <img width="100px" src="https://komarev.com/ghpvc/?username=facalz&style=flat-square&color=90acd0" />
   <br>
   <br>
-  <a href="https://github.com/facalz">
-    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github">
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=facalz&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="facalz" width="340" />
 </div>
